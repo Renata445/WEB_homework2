@@ -1,0 +1,29 @@
+.Title{
+    position: relative; left: 500px;right: 500px;
+}
+
+.text1 {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.text2 {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.textf {
+    font-size: 16px;
+}
+
+.textf1 {
+    font-size: 16px;
+}
+
+.colortext1 {
+    color: rgb(77, 20, 129);
+}
+
+.colortext2 {
+    color: rgb(77, 20, 129);
+}
